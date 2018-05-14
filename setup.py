@@ -5,7 +5,7 @@ except ImportError:
 
 setup(
     name='release-bot-test',
-    version='0.0.14',
+    version='0.0.15',
     packages=['release_bot_test'],
     url='https://github.com/jpopelka/release-bot-test',
     license='GPLv3+',
