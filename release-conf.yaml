@@ -7,3 +7,4 @@ fedora: true
 # list of fedora branches bot should release on. Master is always implied
 fedora_branches:
   - f27
+trigger_on_issue: true
