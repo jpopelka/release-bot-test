@@ -3,9 +3,13 @@ try:
 except ImportError:
     from distutils.core import setup
 
+
+__version__ = '0.0.24'
+
+
 setup(
     name='release-bot-test',
-    version='0.0.24',
+    version=__version__,
     packages=['release_bot_test'],
     url='https://github.com/jpopelka/release-bot-test',
     license='GPLv3+',
