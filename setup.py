@@ -4,7 +4,7 @@ except ImportError:
     from distutils.core import setup
 
 
-__version__ = '0.0.25'
+__version__ = '0.0.26'
 
 
 setup(
